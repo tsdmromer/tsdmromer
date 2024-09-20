@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react and tailwind
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: stronger man 😎
+- 😄 Pronouns: strong man 😎
 - ⚡ Fun fact: ...
 
 <!---
